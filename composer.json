@@ -1,5 +1,5 @@
 {
-    "name": "evandotpro/edp-superluminal",
+    "name": "sheanie/edp-superluminal",
     "description": "Class Cache ZF2 Module to reduce stat calls and generally autoloading overhead",
     "license": "BSD-3-Clause",
     "type": "library",
